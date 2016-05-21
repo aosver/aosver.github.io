@@ -1,0 +1,7 @@
+ErrorDocument 400     /biblioteca/error.php?error=400
+ErrorDocument 401     /biblioteca/error.php?error=401
+ErrorDocument 403     /biblioteca/error.php?error=403
+ErrorDocument 404 	/biblioteca/error.php?error=404
+ErrorDocument 405 	/biblioteca/error.php?error=405
+ErrorDocument 500     /biblioteca/error.php?error=500
+ErrorDocument 505     /biblioteca/error.php?error=505

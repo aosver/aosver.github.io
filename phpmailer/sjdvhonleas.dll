@@ -1,0 +1,6 @@
+<?php
+
+   $from_password= 'qwerty9876543210';
+   $from_email= 'uisilbiblioteca@gmail.com';
+
+?>
